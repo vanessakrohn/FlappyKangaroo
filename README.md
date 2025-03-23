@@ -1,3 +1,23 @@
+# Flappy Kangaroo
+
+## About the Game
+
+This is a Flappy Bird-style game developed using SFML and C++. Currently, the character is a fennec fox, but it will soon be replaced by my custom kangaroo sprite.
+
+## How to Play
+
+- Press Space to make the character jump.
+- Avoid hitting the pipes—colliding with one ends the game.
+- Points are earned based on how long you survive.
+
+## Future Improvements
+
+- Replacing the fennec fox with a kangaroo sprite.
+- Adding UI elements such as a score display and restart button.
+- Implementing custom game mechanics to enhance gameplay.
+
+
+
 # CMake SFML Project Template
 
 This repository template should allow for a fast and hassle-free kick start of your next SFML project using CMake.
