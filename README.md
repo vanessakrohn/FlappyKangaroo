@@ -7,7 +7,7 @@ This is a Flappy Bird-style game developed using SFML and C++. Currently, the ch
 ## How to Play
 
 - Press Space to make the character jump.
-- Avoid hitting the pipes—colliding with one ends the game.
+- Avoid hitting the pipes – colliding with one ends the game.
 - Points are earned based on how long you survive.
 
 ## Future Improvements
